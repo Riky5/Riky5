@@ -23,16 +23,19 @@ Open to work.
   }
 ```
 
-<!--
-**Riky5/Riky5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finding a job
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on exciting projects
+- ⚡ Fun fact: Google was originally to be named Googol which is a number; 10 to the power of 100. But due to a spelling error the name Google was registered, however the founders preferred the name and obviously stuck with it.
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riky5&count_private=true&hide=totalcommits&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riky5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
