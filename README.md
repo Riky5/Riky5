@@ -1,7 +1,7 @@
 ### Hello world 🌍! 👋 I'm Riky 👩🏾‍💻
 
-Just completed a 16 week bootcamp at Makers Academy.   
-Open to work.
+Just completed a 16 week bootcamp at Makers Academy. 🎉   
+I'm looking for a new role as Full-Stack or Front-End Developer. 😊
 
 -----
 📫 How to reach me:   
