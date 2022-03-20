@@ -1,7 +1,7 @@
 ### Hello world 🌍! 👋 I'm Riky 👩🏾‍💻
 
 Recently completed a 16 week bootcamp at Makers Academy. 🎉   
-I'm looking for a new role as Full-Stack or Front-End Developer. 😊
+I'm looking for a new challenge as Junior Software Developer. 😊
 
 -----
 📫 How to reach me:   
