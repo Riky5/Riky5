@@ -26,7 +26,7 @@ I'm looking for a new challenge as Junior Software Developer. 😊
 ----
 
 - 🔭 I’m currently working on finding a job
-- 🌱 I’m currently learning Gatsby, graphQL and Sanity.io
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on exciting projects
 - ⚡ Fun fact: Google was originally to be named Googol which is a number; 10 to the power of 100. But due to a spelling error the name Google was registered, however the founders preferred the name and obviously stuck with it.
 <!-- - 🤔 I’m looking for help with ... -->
