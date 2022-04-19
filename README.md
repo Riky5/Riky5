@@ -16,7 +16,7 @@ I'm looking for a new challenge as Junior Software Developer. 😊
       frontend: [ 'HTML', 'CSS', 'Bulma', 'Bootstrap', 'JavaScript', 'p5', 'React.js', 'Dart/Flutter' ],
       backend: [ 'Node.js', 'Express', 'Ruby', 'Firebase', 'TypeScript'],
       fullstack: 'Ruby-On-Rails',
-      databases: 'PostreSQL',
+      databases: [ 'PostgreSQL', MongoDB ]
       test: [ 'Rspec', 'Capybara', 'Jest' ]
     },
     askMeAbout: [ 'Tech', 'Travelling', 'London' ]
