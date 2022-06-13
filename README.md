@@ -1,7 +1,7 @@
 ### Hello world 🌍! 👋 I'm Riky 👩🏾‍💻
 
-Recently completed a 16 week bootcamp at Makers Academy. 🎉   
-I'm looking for a new challenge as Junior Software Developer. 😊
+Completed a 16 week bootcamp at Makers Academy. 🎉
+Living the Junior Solution Engineer life 👩🏾‍💻 ✨
 
 -----
 📫 How to reach me:   
@@ -25,8 +25,7 @@ I'm looking for a new challenge as Junior Software Developer. 😊
 
 ----
 
-- 🔭 I’m currently working on finding a job
-- 🌱 I’m currently learning Python & React
+- 🌱 I’m currently learning Python & AWS world
 - 👯 I’m looking to collaborate on exciting projects
 - ⚡ Fun fact: Google was originally to be named Googol which is a number; 10 to the power of 100. But due to a spelling error the name Google was registered, however the founders preferred the name and obviously stuck with it.
 <!-- - 🤔 I’m looking for help with ... -->
