@@ -1,7 +1,7 @@
 ### Hello world 🌍! 👋 I'm Riky 👩🏾‍💻
 
 Completed a 16 week bootcamp at Makers Academy. 🎉
-Living the Junior Solution Engineer life 👩🏾‍💻 ✨
+Living the Solution Engineer life at Veolia 👩🏾‍💻 ✨
 
 -----
 📫 How to reach me:   
